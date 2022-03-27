@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/testBootrap.jsp=UTF-8
+encoding//src/ptithcm/admin/adminchuyenxe.java=UTF-8
+encoding//src/ptithcm/admin/adminkhachhang.java=UTF-8
+encoding//src/ptithcm/admin/adminloai.java=UTF-8
+encoding//src/ptithcm/admin/adminthongke.java=UTF-8
+encoding//src/ptithcm/admin/admintuyenxe.java=UTF-8
+encoding//src/ptithcm/admin/adminve.java=UTF-8
+encoding//src/ptithcm/admin/adminxe.java=UTF-8
+encoding//src/ptithcm/controller/WelcomeController.java=UTF-8
+encoding//src/ptithcm/entity/Chuyen.java=UTF-8
+encoding//src/ptithcm/entity/Loai.java=UTF-8
